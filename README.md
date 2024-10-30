@@ -2,7 +2,8 @@
 
 ## AIM
  To sketch the given drawing with dimensions using fusion 360 tool.
- 
+ # NAME.:PRIYA.B
+ # REF.NO:24900803
 ## REQUIREMENTS
  1. Autodesk fusion 360
  2. Windows 10
@@ -36,7 +37,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- 
+ ![Screenshot_30-10-2024_94443_](https://github.com/user-attachments/assets/9b6cfbeb-6288-4f8f-9648-3a406ed5d902)
+
  
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
